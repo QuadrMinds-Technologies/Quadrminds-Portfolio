@@ -15,7 +15,7 @@ QuadrMinds Technologies is a dynamic startup powered by four core members with d
 _Building Automated, Scalable Systems_
 
 **Madhura Kalambe** - Data Analyst | AI & Analytics  
-**Expertise:** Data Science, Power BI, Python, SQL, Tableau  
+**Expertise:** Data Science, Power BI, Python, SQL, Advanced Excel  
 _Aspiring Data Analyst with Mechanical Engineering background_
 
 **Rutuja Suryawanshi** - Full-Stack Developer | Data Analyst  
