@@ -71,7 +71,7 @@ cd quadrminds-portfolio
    - Under **Source**, select _Deploy from a branch_  
    - Choose `main` branch and root folder  
    - Click **Save**  
-   - Your site is live: https://quadrminds-technologies.github.io/quadrminds-portfolio/
+   - Your site is live: https://quadrminds-technologies.github.io/Quadrminds-Portfolio/
 
 ## 🎨 Customization
 
